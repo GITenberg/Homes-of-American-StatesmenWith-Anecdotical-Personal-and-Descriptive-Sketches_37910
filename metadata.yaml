@@ -1,0 +1,34 @@
+_repo: Homes-of-American-StatesmenWith-Anecdotical-Personal-and-Descriptive-Sketches_37910
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2011-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- United States'
+- !lcsh 'Historic buildings -- United States'
+- !lcsh 'United States -- Biography'
+- !lcc 'E151'
+tableOfContents: Washington / Mrs. C. M. Kirkland -- Franklin / C. F. Briggs -- Jefferson
+  / P. Godwin -- Hancock / R. Hildreth -- John Adams / C. Cook -- Patrick Henry /
+  E. W. Johnston -- Madison / E. W. Johnston -- Jay / W. S. Thayer -- Hamilton / J.
+  C. Carter -- Marshall / R. W. Griswold -- Ames / J. B. Thayer -- John Quincy Adams
+  / D. L. Child -- Jackson / P. Godwin -- Rufus King / C. King -- Clay / H. Greeley
+  -- Calhoun / P. Godwin -- Clinton / T. R. Beck -- Story / F. Howland -- Wheaton
+  -- Webster / H. C. Deming.
+title: Homes of American Statesmen; With Anecdotical, Personal, and Descriptive Sketches
+url: http://www.gutenberg.org/ebooks/37910
